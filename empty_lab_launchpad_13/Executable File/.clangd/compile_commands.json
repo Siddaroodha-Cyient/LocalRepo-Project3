@@ -1,0 +1,147 @@
+[
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application/scheduler.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP/BSP_ADC.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP/BSP_CAN.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP/BSP_CLOCK.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP/BSP_DMA.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP/BSP_FSI.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP/BSP_GPIO.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP/BSP_INTERRUPT.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP/BSP_MCAN.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP/BSP_PWM.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP/BSP_SPI.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP/BSP_TIMER.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP/BSP_UART.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP/BSP_WATCHDOG.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL/HAL_ADC.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL/HAL_CAN.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL/HAL_CLOCK.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL/HAL_FSI.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL/HAL_GPIO.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL/HAL_INTERRUPT.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL/HAL_MCAN.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL/HAL_PWM.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL/HAL_SPIA_DRV8350.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL/HAL_SPIB_ENCODER.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL/HAL_TIMER.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL/HAL_UART.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL/HAL_WATCHDOG.c"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\"",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/f28003x_codestartbranch.asm"
+   },
+   {
+      "directory" : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File",
+      "command"   : "clang++ -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/HAL\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/BSP\" -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Application\" -DDEBUG -D_FLASH -I\"D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/Executable File/syscfg\" -xc",
+      "file"      : "D:/NEON/motor_controller/Working code/empty_lab_launchpad_13/empty_lab_launchpad_13/main.c"
+   }
+]

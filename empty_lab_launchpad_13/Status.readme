@@ -1,0 +1,12 @@
+
+Version Number      Date            Changes
+-------------------------------------------------------------------------
+V12                 12-May-2026     -HAL_SPIA_DRV8350.c & HAL_SPIA_DRV8350.h files are added
+                                    -HAL_WATCHDO.c/.h & BSP_WATCHDOG.c/.h files are added
+                                    -Folder re-structered (Apllication, HAl & BSP)
+                                    -File & function header is added
+                                    
+V13                 20-May-2026     -HAL_SPIB_ENCODER.c & HAL_SPIB_ENCODER.h files are added
+                                    -All extern variables have been replaced with corresponding getter functions.
+                                    -HAL_SFI.c is updated as per the requirement (section 9.1)
+                                    

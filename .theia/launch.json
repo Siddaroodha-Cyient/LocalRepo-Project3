@@ -1,0 +1,16 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "empty_lab_launchpad",
+      "type": "ccs-debug",
+      "request": "launch",
+      "projectInfo": {
+        "name": "empty_lab_launchpad",
+        "resourceId": "/empty_lab_launchpad"
+      }
+    }
+  ]
+}
